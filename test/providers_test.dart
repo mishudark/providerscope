@@ -7,7 +7,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:providerscope/model.dart';
+import 'package:providerscope/providerscope.dart';
 //import 'package:test/test.dart' as package_test;
 
 const ProviderScope scope1 = ProviderScope('scope1');
