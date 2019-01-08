@@ -4,7 +4,7 @@
 
 name: providerscope
 description:  A Widget that passes a Reactive Model to all of it's children by scope
-version: 0.1.0
+version: 1.0.1
 authors:
   - Mishel - mishudark<mishu.drk@gmail.com>
 homepage: https://github.com/mishudark/providerscope
