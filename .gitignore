@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+*.sublime-workspace
+build
+ios
+android
+
