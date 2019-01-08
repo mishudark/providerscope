@@ -3,6 +3,12 @@
 # found in the LICENSE file.
 
 name: providerscope
+description:  A Widget that passes a Reactive Model to all of it's children by scope
+version: 0.1.0
+authors:
+  - Mishel - mishudark<mishu.drk@gmail.com>
+homepage: https://github.com/mishudark/providerscope
+
 environment:
   sdk: '>=2.0.0 <3.0.0'
 dependencies:
