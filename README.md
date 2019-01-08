@@ -1,5 +1,8 @@
-A set of utilities that allow you to easily pass a data Model from a parent
-Widget down to it's descendants by a given `scope`.  In addition, it also rebuilds all of the children that use the model when the model is updated.
+A replacement for scopedModel
+
+A set of utilities that allow you to easily pass a data Model from a parent Widget down to it's descendants by a given `scope`.
+If you know how to use scoped model, this library follows the same concept
+solving the problem of `access to multiple models using the same provider`
 
 This library was originally extracted from the Fuchsia codebase.
 
